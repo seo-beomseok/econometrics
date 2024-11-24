@@ -1,6 +1,6 @@
 # Tspoon
 
-Tspoon is a Python library for time-series pre-processing, period conversion, normalization, visualization and more.
+<a href=https://pypi.org/project/tspoon/>Tspoon</a> is a Python library for time-series pre-processing, period conversion, normalization, visualization and more.
 
 ## Installation
 
